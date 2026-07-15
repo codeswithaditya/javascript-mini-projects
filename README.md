@@ -29,5 +29,5 @@ It calculates a student's grade based on the marks entered by the user.
 -console.log()
 -Input Validation
 
-## 🧑‍🏫 Auther
+## 🧑‍🏫 Author
 Aditya Tiwari
